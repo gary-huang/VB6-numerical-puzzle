@@ -1,1 +1,1 @@
-# VB6-numerical-puzzle
+#  A numerical sliding puzzle for VB6
